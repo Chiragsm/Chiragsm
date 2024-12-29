@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chiragsm
 - 👀 I’m interested in Python, Physics and networking
-- 🌱 I’m currently learning Python GUI
+- 🌱 I’m a professional in Python GUI
 - 💞️ I’m looking to collaborate as a freelancer
 - 📫 My email Id - chiragsm09@gmail.com
 
